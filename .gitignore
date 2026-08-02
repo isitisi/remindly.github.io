@@ -11,3 +11,9 @@ build/
 *.apk
 *.ap_
 *.dex
+
+# Release signing — never commit these
+/keystore/
+keystore.properties
+*.jks
+*.keystore
