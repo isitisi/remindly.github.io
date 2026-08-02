@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bell shape representing reminders/alarms -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32 C44,32 37,39 37,49 L37,58 L31,68 L77,68 L71,58 L71,49 C71,39 64,32 54,32 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,72 C46,77 49.6,81 54,81 C58.4,81 62,77 62,72 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>

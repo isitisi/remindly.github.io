@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Remindly</string>
+
+    <string name="tab_tasks">Tasks</string>
+    <string name="tab_events">Events</string>
+
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="add_event">Add Event</string>
+    <string name="edit_event">Edit Event</string>
+
+    <string name="title_label">Title</string>
+    <string name="notes_label">Notes</string>
+    <string name="location_label">Location</string>
+    <string name="due_date_label">Due date</string>
+    <string name="start_label">Start</string>
+    <string name="end_label">End</string>
+    <string name="priority_label">Priority</string>
+    <string name="reminder_label">Reminder</string>
+    <string name="set_reminder">Set reminder</string>
+
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="no_tasks">No tasks yet. Tap + to add one.</string>
+    <string name="no_events">No events yet. Tap + to add one.</string>
+
+    <string name="alarm_channel_name">Reminders</string>
+    <string name="alarm_channel_description">Alarm notifications for tasks and events</string>
+
+    <string name="dismiss">Dismiss</string>
+    <string name="snooze">Snooze 10 min</string>
+
+    <string name="notification_permission_rationale">Remindly needs notification permission to alert you with reminders.</string>
+    <string name="exact_alarm_permission_rationale">Remindly needs permission to schedule exact alarms so reminders ring on time.</string>
+    <string name="grant_permission">Grant</string>
+</resources>
